@@ -17,4 +17,4 @@ I’m a Master’s student in Computer Science at IU International University, p
 - **LinkedIn**: [linkedin.com/in/aarya-mody](https://linkedin.com/in/aarya-mody)  
 - **Currently**: Open to internships & entry-level roles in Data Science, AI/ML, and Software Development!  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryaMody1301&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryaMody1301&show_icons=true&theme=transparent)
