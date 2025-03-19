@@ -18,5 +18,4 @@ I’m a Master’s student in Computer Science at IU International University, p
 - **Currently**: Open to internships & entry-level roles in Data Science, AI/ML, and Software Development!  
 
 ![AaryaMody1301's Stats](https://github-readme-stats.vercel.app/api?username=AaryaMody1301&theme=onedark&show_icons=true&hide_border=false&count_private=true)
-![AaryaMody1301's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AaryaMody1301&theme=onedark&hide_border=false)
 ![AaryaMody1301's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaMody1301&theme=onedark&show_icons=true&hide_border=false&layout=compact)
