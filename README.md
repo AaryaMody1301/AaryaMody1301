@@ -1,6 +1,6 @@
 # Hi, I’m Aarya Linesh Mody! 👋
 
-I’m a Master’s student in Computer Science at IU International University, passionate about **Data Science**, **AI/ML**, and **Software Development**. I love turning data into insights and building innovative solutions with code.
+I’m passionate about **Data Science**, **AI/ML**, and **Software Development**. I love turning data into insights and building innovative solutions with code.
 
 ## 🔧 Skills
 - **Languages**: Python, SQL, MATLAB, Java (learning)  
