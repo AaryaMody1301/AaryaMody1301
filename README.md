@@ -1,55 +1,57 @@
 # Aarya Linesh Mody
 
-**Data, AI & Software Engineering**
+**Data Engineering · Analytics · Applied AI · Software Engineering**
 
-I build data-driven and AI-powered products across machine learning, analytics, full-stack applications, and developer tooling. I care about reproducible evaluation, clear data contracts, secure defaults, practical UX, and software that can be tested end to end.
+I build data-intensive and AI-powered systems with an emphasis on reliable pipelines, explicit contracts, reproducible evaluation, secure defaults, and end-to-end verification. My work spans analytics engineering, machine learning, full-stack applications, developer tooling, and agent-assisted workflows.
 
 ## Current focus
 
-- Applied AI and agent-assisted workflows
-- Machine learning evaluation and reproducibility
-- Data products, analytics, and forecasting
+- Data engineering, analytics engineering, and reliable data products
+- Applied AI and bounded agent-assisted workflows
+- Reproducible machine learning evaluation and forecasting
 - Full-stack engineering with Python and TypeScript
-- Open-source development, CI, security, and release hardening
+- CI/CD, security, testing, observability, and release hardening
 
 ## Featured projects
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[ContextHalo](https://github.com/AaryaMody1301/ContextHalo)** | Open-source Windows AI desktop assistant combining screen context, system audio, microphone input, Gemini, Groq, and optional local AI. Includes secure credential storage, Electron hardening, CI, and portable Windows releases. |
-| **[DeepTrail](https://github.com/AaryaMody1301/deeptrail-webmcp)** | WebMCP-native, local-first research workspace where humans and AI agents share inspectable evidence, claims, counterarguments, confidence changes, and decisions. Built with Next.js, React, TypeScript, IndexedDB, and validated WebMCP tools. |
-| **[Sales Forecasting](https://github.com/AaryaMody1301/Sales-Forcasting-Using-Time-Series-Analysis)** | Leakage-aware forecasting package with explicit dataset contracts, expanding-window backtesting, reproducible artifacts, model comparison, and a manifest-backed dashboard. **[v1.0.1 release](https://github.com/AaryaMody1301/Sales-Forcasting-Using-Time-Series-Analysis/releases/tag/v1.0.1)**. |
-| **[StockPulse](https://github.com/AaryaMody1301/stock-market)** | Full-stack stock-market application using Next.js, PostgreSQL, Prisma, Finnhub, Twelve Data fallback, quote polling, historical backfills, and production deployment tooling. |
+| **[DriftDoctor](https://github.com/AaryaMody1301/DriftDoctor)** | Selective-agent workflow for diagnosing and safely repairing dbt contract drift. Combines deterministic repair skills, bounded model use, external verification, human escalation, and reproducible benchmark evidence. The published synthetic benchmark reaches **12/12 verified repairs** on its frozen primary suite. |
+| **[StockPulse](https://github.com/AaryaMody1301/StockPulse)** | Evidence-first investment research application built with Next.js, PostgreSQL/Prisma, SEC EDGAR/XBRL ingestion, deterministic change detection, provider fallbacks, background workers, and optional citation-grounded AI analysis. |
+| **[Sales Forecasting](https://github.com/AaryaMody1301/Sales-Forcasting-Using-Time-Series-Analysis)** | Leakage-aware forecasting package with explicit dataset contracts, expanding-window backtesting, baseline comparison, reproducible artifacts, checksum verification, CLI workflows, and a manifest-backed dashboard. **[v1.0.1](https://github.com/AaryaMody1301/Sales-Forcasting-Using-Time-Series-Analysis/releases/tag/v1.0.1)**. |
+| **[DeepTrail](https://github.com/AaryaMody1301/deeptrail-webmcp)** | WebMCP-native, local-first research workspace where humans and browser agents share inspectable evidence, claims, counterarguments, confidence changes, and decisions. Includes validated tool contracts, deterministic research-debt scoring, IndexedDB persistence, and CI. **[Live demo](https://deeptrail-webmcp.netlify.app/judge)**. |
+| **[ContextHalo](https://github.com/AaryaMody1301/ContextHalo)** | Open-source Windows AI desktop assistant combining screen context, system audio, microphone input, Gemini, Groq, and optional local AI. Includes encrypted credential storage, Electron hardening, automated validation, and portable Windows releases. |
 
 ## More data & ML work
 
-- **[Sentiment Analysis for Product Reviews](https://github.com/AaryaMody1301/Sentiment-Analysis-for-Product-Reviews)** — Streamlit NLP workflow for preprocessing, model training, large-file processing, and batch prediction.
-- **[Face Detection Attendance System](https://github.com/AaryaMody1301/Face_Detection_Attendance_System)** — Python/OpenCV attendance application with facial recognition, registration, reporting, and a desktop UI.
-- **[SQL Practice Project](https://github.com/AaryaMody1301/SQL_Practice_Project)** — PostgreSQL analysis exercises focused on data-analyst-style queries and business questions.
-- **[Video Game Sales Dashboard](https://github.com/AaryaMody1301/Video-Game-Sales-Dashboard)** — Python dashboard and analysis project for video-game sales data.
+- **[SQL Practice Project](https://github.com/AaryaMody1301/SQL_Practice_Project)** — PostgreSQL analysis exercises built around analyst-style business questions, reusable SQL patterns, and query reasoning.
+- **[Sentiment Analysis for Product Reviews](https://github.com/AaryaMody1301/Sentiment-Analysis-for-Product-Reviews)** — Streamlit NLP workflow for preprocessing, model training, large-file processing, evaluation, and batch prediction.
+- **[Video Game Sales Dashboard](https://github.com/AaryaMody1301/Video-Game-Sales-Dashboard)** — Python analytics/dashboard project for exploring regional, platform, genre, publisher, and time-based video-game sales patterns.
+- **[Face Detection Attendance System](https://github.com/AaryaMody1301/Face_Detection_Attendance_System)** — Python/OpenCV attendance application with face registration, recognition, reporting, and a desktop UI.
 
 ## Core stack
 
 **Languages**  
 `Python` · `SQL` · `TypeScript` · `JavaScript`
 
-**Data & ML**  
-`pandas` · `scikit-learn` · `TensorFlow` · `OpenCV` · `XGBoost` · `Prophet` · `NLP` · `Time Series`
+**Data & Analytics Engineering**  
+`PostgreSQL` · `dbt` · `DuckDB` · `Prisma` · `pandas` · `Data Contracts` · `Data Quality` · `Time Series`
 
-**Applications**  
-`Next.js` · `React` · `Flask` · `Streamlit` · `Electron`
+**ML & Applied AI**  
+`scikit-learn` · `XGBoost` · `Prophet` · `TensorFlow` · `OpenCV` · `NLP` · `LLM/Agent Workflows`
 
-**Data & Engineering**  
-`PostgreSQL` · `Prisma` · `Git` · `GitHub Actions` · `REST APIs` · `CI/CD`
+**Applications & Engineering**  
+`Next.js` · `React` · `Streamlit` · `Electron` · `Zod` · `REST APIs` · `GitHub Actions` · `CI/CD`
 
-## What I value in projects
+## Engineering principles
 
-- Reproducible results instead of unsupported performance claims
-- Baselines and holdout evaluation before adding model complexity
-- Data validation and explicit contracts at system boundaries
-- Tests and CI that exercise real execution paths
-- Security and privacy treated as product requirements
-- Documentation that matches the implementation
+- Prefer reproducible evidence over unsupported performance claims
+- Compare complex approaches against simple baselines
+- Treat schemas, data contracts, and validation as first-class interfaces
+- Test real execution paths, failure modes, and recovery behavior
+- Keep consequential AI actions bounded, inspectable, and reviewable
+- Treat security, privacy, and operational reliability as product requirements
+- Keep documentation aligned with the implementation
 
 ## Connect
 
@@ -57,4 +59,4 @@ I build data-driven and AI-powered products across machine learning, analytics, 
 - **Email:** [aaryamody5@gmail.com](mailto:aaryamody5@gmail.com)
 - **GitHub:** [@AaryaMody1301](https://github.com/AaryaMody1301)
 
-Interested in opportunities across **Data, ML/AI, analytics, and software engineering**.
+Interested in opportunities across **data engineering, analytics, ML/AI, and software engineering**.
