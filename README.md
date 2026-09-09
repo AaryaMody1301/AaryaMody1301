@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-profile-banner.jpg" alt="Aarya Linesh Mody — Data Analyst · Data Engineer" width="100%" />
+</p>
+
 # Aarya Linesh Mody
 
 **Data Engineering · Analytics · Applied AI · Software Engineering**
